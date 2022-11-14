@@ -1,0 +1,54 @@
+.body {
+    background-color: #F5F5F5;
+    color:  #212121;
+}
+.list {
+    list-style: none;
+}
+    
+/* Первичный цвет текста #212121 */
+/* Вторичный цвет текста #757575; */
+/* Белый #FFFFFF */
+/* акцент #2196F3  */
+
+/* Логотип */
+.web {
+    font-family:'Raleway',sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    line-height:1.2;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+   
+    
+}
+
+.studio {
+    font-family: 'Raleway',sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    line-height:1.2;
+    letter-spacing: 0.03em;
+    color: #000000;
+
+}
+.header-logo .link:hover, {
+    color:  #2196F3;
+}
+/* site-nav */
+.site-nav .link, {
+    color:#212121;
+}
+.header-logo:hover {
+    color: aquamarine;
+}
+
+.site-nav .link:hover,.site-nav .link:focus {
+    color:  #2196F3;
+}
+.site-nav,.cont {
+    color: #212121;
+}
+.port,.info {
+    color: #2196F3;
+}
